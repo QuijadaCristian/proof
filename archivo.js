@@ -1,2 +1,5 @@
-console.log('Hola ctm!');
-console.log('Holaaaa!');
+
+
+console.log('como estas');
+console.log('muy bien gracias y tu !');
+console.log('bien igual hombre !');
